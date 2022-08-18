@@ -2,7 +2,7 @@
 
 módulo que permite converter markdown em HTML
 
-![image](https://user-images.githubusercontent.com/42048382/185492783-f6dc3ae3-7056-49e4-8958-aea39397f6f4.png)
+![image](https://user-images.githubusercontent.com/42048382/185493043-f446d29b-c3d8-4a30-b839-2b70f6f280c3.png)
 
 Referencia: [[django-markdownify]](https://django-markdownify.readthedocs.io/en/latest/index.html#)
 
