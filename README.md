@@ -39,7 +39,7 @@ MARKDOWNIFY = {
 
 3. Na página html onde queremos usar:
     * carregar o filtro
-    * utilizar o filtro nas variáveis que usarmos ou passarmos:
+    * utilizar o filtro nas variáveis que usarmos ou [passarmos](https://github.com/ULHT-PW/markdown/blob/8f43a5d030505d46ae2c1c9c3b16d702291ed8b3/app/views.py#L6):
 
 ```html
 <!-- pagina.html -->
