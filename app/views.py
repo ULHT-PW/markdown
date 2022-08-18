@@ -7,6 +7,9 @@ def index_view(request):
 # Título
 
 ## Sub-título
+Na string, as frases devem estar encostadas à esquerda, sem espaços, tal como o markdown, para que os marcadores funcionem.
+
+## Outro Sub-título
 
 Esta frase está num parágrafo.
 Esta frase está noutro parágrafo.

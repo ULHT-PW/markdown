@@ -39,7 +39,7 @@ MARKDOWNIFY = {
 
 3. Na página html onde queremos usar:
     * carregar o filtro
-    * utilizar o filtro nas variáveis que usarmos ou passarmos:
+    * utilizar o filtro nas variáveis que usarmos ou passarmos para transformar markdown em HTML:
 
 ```html
 <!-- pagina.html -->
