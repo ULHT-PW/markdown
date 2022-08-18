@@ -1,7 +1,12 @@
 # Markdownify
 
 Módulo que permite no django converter markdown em HTML 😎!
-* Na imagem em baixo, a variável `texto` tem texto com marcadores markdown (`#` e `##` para especificar titulos, `*` listar não ordenadamente, `1.` para lista ordenada, `**` para bold, `__` para itálico, ...)
+
+Permite por exemplo guardar numa base de dados, num campo do tipo CharField, texto com formatação.
+
+Na imagem em baixo:
+
+* a variável `texto` tem texto com marcadores markdown (`#` e `##` para especificar titulos, `*` listar não ordenadamente, `1.` para lista ordenada, `**` para bold, `__` para itálico, ...)
 * a variável `texto` é passada como contexto na função `render`, para o template HTML
 * no ficheiro HTML a variável é renderizada, usando-se o filtro `markdownify`em `{{ texto|markdownify }}`. Super simples!
 * Veja como resulta a conversão em HTML.
